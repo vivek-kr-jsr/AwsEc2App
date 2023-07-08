@@ -2,8 +2,8 @@
 
 // Configure AWS SDK
 AWS.config.update({
-    accessKeyId: 'AKIAQTBC5VVQASTBIGN3',
-    secretAccessKey: '/2gCBMd6/wnTYy2zOhBgRL34iVkNVJZZ8PjQwQV8',
+    accessKeyId: '',
+    secretAccessKey: '',
     region: 'ap-south-1' // e.g., 'us-west-2'
   });
   
